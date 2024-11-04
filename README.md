@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tyagisa24
 - 👀 I’m interested in learning new concepts about computing
-- 🌱 I’m currently learning cloud computing
+
 
 
 <!---

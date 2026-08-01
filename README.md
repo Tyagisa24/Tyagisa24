@@ -28,13 +28,11 @@ Electronics engineer making the switch into software/data roles — currently de
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tyagisa24&show_icons=true&theme=radical)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyagisa24&layout=compact&theme=radical)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tyagisa24&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tyagisa24&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tyagisa24&theme=radical)
 
 
 ## 📫 Reach me

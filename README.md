@@ -28,8 +28,6 @@ Electronics engineer making the switch into software/data roles — currently de
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tyagisa24&theme=github_dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Tyagisa24&theme=radical)
 

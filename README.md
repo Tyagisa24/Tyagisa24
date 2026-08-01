@@ -26,11 +26,6 @@ Electronics engineer making the switch into software/data roles — currently de
 | [Digital-Image-Processing](https://github.com/Tyagisa24/Digital-Image-Processing) | Digital image processing techniques and experiments |
 
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tyagisa24&theme=github_dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Tyagisa24&theme=radical)
-
 
 ## 📫 Reach me
 

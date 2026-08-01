@@ -25,6 +25,14 @@ Electronics engineer making the switch into software/data roles — currently de
 | [Clothing](https://github.com/Tyagisa24/Clothing) | Machine learning project on clothing/image classification |
 | [Digital-Image-Processing](https://github.com/Tyagisa24/Digital-Image-Processing) | Digital image processing techniques and experiments |
 
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tyagisa24&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyagisa24&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tyagisa24&theme=radical)
+
+
 ## 📫 Reach me
 
 <!-- Add whichever of these you actually want public — delete the rest -->

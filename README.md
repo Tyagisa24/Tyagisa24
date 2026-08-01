@@ -28,8 +28,8 @@ Electronics engineer making the switch into software/data roles — currently de
 ## 📫 Reach me
 
 <!-- Add whichever of these you actually want public — delete the rest -->
-- LinkedIn: _add your link here_
-- Email: _add your email here_
+- LinkedIn: www.linkedin.com/in/sanchit-tyagi-54a580232
+- Email: tyagisanchit24@gmail.com
 
 ---
 <sub>Currently prioritizing: Python → SQL → Java, in that order, while grinding DSA for interviews.</sub>
